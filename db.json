@@ -1,0 +1,67 @@
+{
+    "Doutores": [
+      {
+        "id": 1,
+        "nome": "Dr.Daniel",
+        "experiencia": "Formado na área a 30 anos",
+        "serviços_id": 1
+        
+      },
+      {
+        "id": 2,
+        "nome": "Dr. Bernardo",
+        "experiencia": "Formado na área a 25 anos",
+        "serviços_id": 2
+      },
+      {
+        "id": 3,
+        "nome": "Dr. Davi",
+        "experiencia": "Formado na área a 15 anos",
+        "serviços_id": 4
+      },
+      {
+        "id": 3,
+        "nome": "Dr. Bento",
+        "experiencia": "Formado na área a 10 anos",
+        "serviços_id": 3
+      }
+     
+    ],
+    "servicos": [
+      {
+        "id": 1,
+        "nome": "Facetas de porcelana e lentes de contato",
+        "descrição":"As lentes de contato dentárias e facetas são um grande sucesso atualmente. A função delas não é somente estética, pois serve, principalmente, para aproximar dentes que estão a uma distância inadequada."
+      },
+      {
+        "id": 2,
+        "nome": "Implante dentário",
+        "descrição":"O implante dentário é o suporte metálico que liga o osso no interior da gengiva ao dente artificial, dando mais estabilidade a ele. Ou seja, implantar dentes não é a mesma coisa que usar dentadura, como algumas pessoas pensam. Esse é um dos serviços de odontologia mais procurados."
+      },
+      {
+        "id": 3,
+        "nome": "Clareamento dentário",
+        "descrição":"O clareamento é um dos serviços de odontologia com objetivo completamente estético, pois não interfere na saúde dos dentes. Você não deve considerar de menor importância, afinal, ele está ligado à autoestima do paciente."
+      },
+      {
+        "id": 4,
+        "nome":"Tratamento de cárie",
+        "descrição":"O tratamento de cárie é um dos procedimentos mais básicos da odontologia e não pode faltar em nenhum consultório. A maioria das pessoas, em algum momento, acaba desenvolvendo uma cárie, que deve ser removida para que não atinja as raízes do dente."
+      }
+
+    ],
+    "consultorios": [
+        {
+            "id":1,
+            "nome":"Dental Arte",
+            "endereço":"Rua Felipe Schmidt, 291 Sala 101, SC",
+            "cep": 88010000
+        },
+        {
+            "id":2,
+            "nome":"Dental Arte",
+            "endereço":"Rua Anita Garibaldi, 141, SC",
+            "cep":88801020
+        }
+    ]
+  }
