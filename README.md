@@ -1,7 +1,5 @@
 <h1 align="center"> 
-  ![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--Ha4lJw1K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ufu6exnzkz80auwf205h.png)
-  
- </h1>
+  ![Logo](https://miro.medium.com/max/720/0*vL991M8tdcYYOsms) </h1>
 
 <p aling = "center">
 
