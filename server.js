@@ -5,9 +5,9 @@ const middlewares = jsonServer.defaults();
 
 const port = process.env.PORT || 8080;
 
-server.unsubscribe(middlewares);
-server.unsubscribe(router);
+server.use(middlewares);
+server.use(router);
 server.listen(port, () => {
     //eslint-disable-next-line no console
-console.log (`JSON Server está funcionando na porta ${port}`);
+console.log(`JSON Server está funcionando na porta ${port}`);
 });
