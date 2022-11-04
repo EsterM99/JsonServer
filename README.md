@@ -1,5 +1,6 @@
 <h1 align="center"> 
-  ![Logo](https://miro.medium.com/max/720/0*vL991M8tdcYYOsms) </h1>
+  
+  ![Logo](https://miro.medium.com/max/720/0*vL991M8tdcYYOsms)</h1>
 
 <p aling = "center">
 
