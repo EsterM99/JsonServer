@@ -20,25 +20,8 @@
 
 ## Desenvolvedora
 
-| [<img src="![112878619](https://user-images.githubusercontent.com/112878619/199979291-2e02f695-aa0c-4e0e-a3ed-b52850d37da8.jpg)
+| [<img src="![112878619](https://user-images.githubusercontent.com/112878619/199979939-79452eca-c2ac-42ac-a3c2-5b095f7db435.jpg)
 " width=115><br><sub>Ester Silva Ramos</sub>](https://github.com/EsterM99) | :---: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://jsonserver-ester-zdp7.onrender.com/).
