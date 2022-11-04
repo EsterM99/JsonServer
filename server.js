@@ -5,7 +5,7 @@ const middlewares = jsonServer.defaults();
 
 const port = process.env.PORT || 8080;
 
-server.unsubscribe(middleware);
+server.unsubscribe(middlewares);
 server.unsubscribe(router);
 server.listen(port, () => {
     //eslint-disable-next-line no console
