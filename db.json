@@ -62,6 +62,18 @@
             "nome":"Dental Arte",
             "endereço":"Rua Anita Garibaldi, 141, SC",
             "cep":88801020
+        },
+        {
+           "id":3,
+           "nome":"Dental Arte",
+           "endereço":"Rua Felipe Schmidt, 291 Sala 101",
+           "cep":88010000
+        },
+        {
+        "id":4,
+        "nome":"Dental Arte",
+        "endereço":"Rua Intendente João Nunes Vieira, 1335 - Sala 01",
+        "cep":88058100
         }
     ]
   }
