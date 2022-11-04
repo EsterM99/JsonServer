@@ -1,5 +1,9 @@
-<h1 align="center"> JsonServer 
+<h1 align="center"> 
+  
+ 
 ![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fdrsimplegraffiti%2Fjson-server-a1b&psig=AOvVaw2-Cl_EAllbQMoUiBM2hXqk&ust=1667653995305000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNDImLLNlPsCFQAAAAAdAAAAABAE) </h1>
+
+<p aling = "center">
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -7,7 +11,7 @@
 - ``Json-Server``
 - ``Postman``
 - ``Render``
-
+</p>
 
 ## Descrição do projeto 
 
