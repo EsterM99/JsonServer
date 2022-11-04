@@ -20,7 +20,7 @@
 
 ## Desenvolvedora
 
-| [<br><sub>Ester Silva Ramos</sub>](https://github.com/EsterM99) | :---: 
+[<br><sub>Ester Silva Ramos</sub>](https://github.com/EsterM99) 
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://jsonserver-ester-zdp7.onrender.com/).
