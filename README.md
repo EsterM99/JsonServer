@@ -1,6 +1,6 @@
 <h1 align="center"> 
   
-  ![Logo](https://res.cloudinary.com/practicaldev/image/fetch/s--Bb9ilzPG--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ufu6exnzkz80auwf205h.png)</h1>
+  ![Logo](https://i.imgur.com/Ek9Sqp8.png)</h1>
 
 <p aling = "center">
 
