@@ -32,21 +32,25 @@
         "id": 1,
         "nome": "Facetas de porcelana e lentes de contato",
         "descrição":"As lentes de contato dentárias e facetas são um grande sucesso atualmente. A função delas não é somente estética, pois serve, principalmente, para aproximar dentes que estão a uma distância inadequada."
+        "preço": "R$ 2.000"
       },
       {
         "id": 2,
         "nome": "Implante dentário",
         "descrição":"O implante dentário é o suporte metálico que liga o osso no interior da gengiva ao dente artificial, dando mais estabilidade a ele. Ou seja, implantar dentes não é a mesma coisa que usar dentadura, como algumas pessoas pensam. Esse é um dos serviços de odontologia mais procurados."
+         "preço": "R$ 500,00"
       },
       {
         "id": 3,
         "nome": "Clareamento dentário",
         "descrição":"O clareamento é um dos serviços de odontologia com objetivo completamente estético, pois não interfere na saúde dos dentes. Você não deve considerar de menor importância, afinal, ele está ligado à autoestima do paciente."
+        "preço": "R$ 550,00"
       },
       {
         "id": 4,
         "nome":"Tratamento de cárie",
         "descrição":"O tratamento de cárie é um dos procedimentos mais básicos da odontologia e não pode faltar em nenhum consultório. A maioria das pessoas, em algum momento, acaba desenvolvendo uma cárie, que deve ser removida para que não atinja as raízes do dente."
+        "preço": "R$ 150,00"
       }
 
     ],
